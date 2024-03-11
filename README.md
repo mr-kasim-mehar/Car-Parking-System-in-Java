@@ -1,5 +1,6 @@
-# Data Structures and Algorithms
-Dr. Syed Qamar Askari Shah
+# Car Parking Manahement Sytem
+### Course Instructor
+- Dr. Syed Qamar Askari Shah
 
 ### Group Members
 - Muhammad Qasim (Roll Number: 221370003)
