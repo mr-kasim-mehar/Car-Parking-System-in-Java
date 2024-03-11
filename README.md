@@ -1,6 +1,4 @@
-# DSA-Project Report
-
-## Data Structures and Algorithms
+# Data Structures and Algorithms
 Dr. Syed Qamar Askari Shah
 
 ### Group Members
