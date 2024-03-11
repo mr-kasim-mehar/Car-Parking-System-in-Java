@@ -1,4 +1,4 @@
-# Car Parking Manahement System in Java
+# Car Parking Management System in Java
 ### Course Instructor
 - Dr. Syed Qamar Askari Shah
 
