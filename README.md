@@ -2,10 +2,10 @@
 Dr. Syed Qamar Askari Shah
 
 ### Group Members
-- Usman Qadeer (Roll Number: 221370030)
 - Muhammad Qasim (Roll Number: 221370003)
-- Danish Gill (Roll Number: 221370005)
 - Muhammad Moiz (Roll Number: 221370020)
+- Usman Qadeer (Roll Number: 221370030)
+- Danish Gill (Roll Number: 221370005)
 ### Code Contributers
 - Muhammad Qasim (Roll Number: 221370003)
 - Muhammad Moiz (Roll Number: 221370020)
